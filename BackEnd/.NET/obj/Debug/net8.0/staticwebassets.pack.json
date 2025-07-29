@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\.editorconfig",
+      "PackagePath": "staticwebassets\\browser\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\.gitignore",
+      "PackagePath": "staticwebassets\\browser\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\README.md",
+      "PackagePath": "staticwebassets\\browser\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\angular.json",
+      "PackagePath": "staticwebassets\\browser\\angular.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\departments\\index.html",
+      "PackagePath": "staticwebassets\\browser\\departments\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\employees\\index.html",
+      "PackagePath": "staticwebassets\\browser\\employees\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\favicon.ico",
+      "PackagePath": "staticwebassets\\browser\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\index.csr.html",
+      "PackagePath": "staticwebassets\\browser\\index.csr.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\main-XCILX7WZ.js",
+      "PackagePath": "staticwebassets\\browser\\main-XCILX7WZ.js"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\package-lock.json",
+      "PackagePath": "staticwebassets\\browser\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\package.json",
+      "PackagePath": "staticwebassets\\browser\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\browser\\public\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\scripts-WL2QHKC5.js",
+      "PackagePath": "staticwebassets\\browser\\scripts-WL2QHKC5.js"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app-routing.module.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app-routing.module.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.component.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.config.server.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.config.server.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.config.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.config.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.html",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.module.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.module.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.routes.server.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.routes.server.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.routes.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.routes.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.scss",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.spec.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\app.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\app.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-form\\department-form.component.html",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-form\\department-form.component.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-form\\department-form.component.scss",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-form\\department-form.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-form\\department-form.components.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-form\\department-form.components.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-form\\department-form.spec.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-form\\department-form.spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-list\\department-list.component.html",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-list\\department-list.component.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-list\\department-list.component.scss",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-list\\department-list.component.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-list\\department-list.components.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-list\\department-list.components.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-list\\department-list.spec.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-list\\department-list.spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-module.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-module.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\department\\department-routing-module.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\department\\department-routing-module.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\employee\\employee-list\\employee-list.component.html",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\employee\\employee-list\\employee-list.component.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\employee\\employee-list\\employee-list.components.scss",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\employee\\employee-list\\employee-list.components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\employee\\employee-list\\employee-list.components.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\employee\\employee-list\\employee-list.components.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\employee\\employee-list\\employee-list.spec.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\employee\\employee-list\\employee-list.spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\employee\\employee-module.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\employee\\employee-module.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\employee\\employee-routing-module.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\employee\\employee-routing-module.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\services\\department.service.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\services\\department.service.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\services\\department.spec.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\services\\department.spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\services\\department.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\services\\department.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\services\\employee.service.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\services\\employee.service.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\services\\employee.spec.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\services\\employee.spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\app\\services\\employee.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\app\\services\\employee.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\index.html",
+      "PackagePath": "staticwebassets\\browser\\src\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\main.server.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\main.server.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\main.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\main.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\server.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\server.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\styles.scss",
+      "PackagePath": "staticwebassets\\browser\\src\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\vite.config.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\vite.config.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\src\\zone-loader.ts",
+      "PackagePath": "staticwebassets\\browser\\src\\zone-loader.ts"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\styles-BQS2IIR3.css",
+      "PackagePath": "staticwebassets\\browser\\styles-BQS2IIR3.css"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\tsconfig.app.json",
+      "PackagePath": "staticwebassets\\browser\\tsconfig.app.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\tsconfig.json",
+      "PackagePath": "staticwebassets\\browser\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\browser\\tsconfig.spec.json",
+      "PackagePath": "staticwebassets\\browser\\tsconfig.spec.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\prerendered-routes.json",
+      "PackagePath": "staticwebassets\\prerendered-routes.json"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\angular-app-engine-manifest.mjs",
+      "PackagePath": "staticwebassets\\server\\angular-app-engine-manifest.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\angular-app-manifest.mjs",
+      "PackagePath": "staticwebassets\\server\\angular-app-manifest.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\assets-chunks\\departments_index_html.mjs",
+      "PackagePath": "staticwebassets\\server\\assets-chunks\\departments_index_html.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\assets-chunks\\employees_index_html.mjs",
+      "PackagePath": "staticwebassets\\server\\assets-chunks\\employees_index_html.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\assets-chunks\\index_csr_html.mjs",
+      "PackagePath": "staticwebassets\\server\\assets-chunks\\index_csr_html.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\assets-chunks\\index_server_html.mjs",
+      "PackagePath": "staticwebassets\\server\\assets-chunks\\index_server_html.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\assets-chunks\\styles-BQS2IIR3_css.mjs",
+      "PackagePath": "staticwebassets\\server\\assets-chunks\\styles-BQS2IIR3_css.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\chunk-HKQTHSU5.mjs",
+      "PackagePath": "staticwebassets\\server\\chunk-HKQTHSU5.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\chunk-L2MVFUKD.mjs",
+      "PackagePath": "staticwebassets\\server\\chunk-L2MVFUKD.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\chunk-QN7HHIJH.mjs",
+      "PackagePath": "staticwebassets\\server\\chunk-QN7HHIJH.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\chunk-T55IDOPT.mjs",
+      "PackagePath": "staticwebassets\\server\\chunk-T55IDOPT.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\index.server.html",
+      "PackagePath": "staticwebassets\\server\\index.server.html"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\main.server.mjs",
+      "PackagePath": "staticwebassets\\server\\main.server.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\polyfills.server.mjs",
+      "PackagePath": "staticwebassets\\server\\polyfills.server.mjs"
+    },
+    {
+      "Id": "C:\\Users\\Sajit\\Downloads\\Assignment\\Development web application\\New folder\\backend\\.net\\wwwroot\\server\\server.mjs",
+      "PackagePath": "staticwebassets\\server\\server.mjs"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeApi.props",
+      "PackagePath": "build\\EmployeeApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeApi.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeApi.props",
+      "PackagePath": "buildTransitive\\EmployeeApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
