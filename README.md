@@ -7,30 +7,6 @@ This is a Full-Stack Employee Management System It supports **Employee** and **D
 - Angular (Department Frontend)
 - React (Employee Frontend)
 
----
- 📁 Project Structure
-
-EmployeeManagementSystem/
-│
-├── backend/
-│ ├── aspnet-employee-api/ # ASP.NET Core Web API (MSSQL)
-│ └── springboot-department-api/ # Spring Boot API (MySQL)
-│
-├── frontend/
-│ ├── angular-department-ui/ # Angular App (Department UI)
-│ └── react-employee-ui/ # React App (Employee UI)
-│
-├── database/
-│ ├── init-mssql.sql # MSSQL script for Employee table
-│ └── init-mysql.sql # MySQL script for Department table
-│
-├── assets/
-│ ├── screenshots/ # Screenshots for demo
-│ └── ERD.png # ER Diagram
-│
-└── README.md
----
-
 ⚙️ Tech Stack
 
 | Layer      | Tech Used                    |
