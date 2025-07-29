@@ -20,14 +20,14 @@ This is a Full-Stack Employee Management System It supports **Employee** and **D
 ---
 
 🛠 Setup Instructions
-.NET
 
+**.NET**
 cd backend
 cd .net
 dotnet run
 Ensure appsettings.json points to your MSSQL database.
 
-Spring Boot API (Department)
+**Spring Boot API (Department)**
 
 cd backend
 cd sprinbootAPI
@@ -35,13 +35,13 @@ cd sprinbootAPI
 Ensure application.properties has correct MySQL credentials.
 
 4. Frontend Setup
-Angular (Department UI)
+**Angular (Department UI)**
 cd frontend
 cd angular
 ng serve
 
 
-React (Employee UI)
+**React (Employee UI)**
 cd frontend
 cd react
 npm install
